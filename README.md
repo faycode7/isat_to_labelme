@@ -1,4 +1,7 @@
 # isat_to_labelme
 turn isat data into labelme data
 
-my first commit
+FOR WINDOWS:
+
+In CMD type: 
+python main.py "C:\\files_directory"
