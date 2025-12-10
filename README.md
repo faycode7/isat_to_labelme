@@ -4,4 +4,4 @@ turn isat data into labelme data
 FOR WINDOWS:
 
 In CMD type: 
-python main.py "C:\\files_directory"
+python main.py "D:\label_folder -o D:\export_folder"
