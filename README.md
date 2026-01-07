@@ -1,7 +1,9 @@
 # isat_to_labelme
-turn isat data into labelme data
+Convert labels from ISAT format to Labelme format.
 
-FOR WINDOWS:
+## Run Script
 
-In CMD type: 
-python main.py "D:\label_folder -o D:\export_folder"
+In CMD type:
+```bash
+uv run main.py "D:\label_folder" -o "D:\export_folder"
+```
